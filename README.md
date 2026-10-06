@@ -14,3 +14,9 @@ Lenguaje de Programación II.
 El proyecto tiene como finalidad demostrar el manejo práctico
 de Git y GitHub, incluyendo control de cambios, staging,
 commits, ramas, merge y sincronización con un repositorio remoto.
+
+## Evidencia T2
+
+Esta sección corresponde a la T_02 del curso
+Lenguaje de Programación II y evidencia el uso de Git
+para el control de versiones del proyecto.

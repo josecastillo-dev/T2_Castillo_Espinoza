@@ -24,3 +24,9 @@ para el control de versiones del proyecto.
 ## Control de cambios
 
 Esta sección describe el control de cambios realizado durante la Evaluación 02 mediante Git.
+
+## Gestión de ramas
+
+Se creó la rama `feature-castillo` para desarrollar de forma independiente una funcionalidad de control de versiones.
+
+La funcionalidad desarrollada corresponde a `ControlVersion_Castillo.java`.

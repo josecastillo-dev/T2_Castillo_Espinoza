@@ -1,0 +1,2 @@
+Evaluación 02 - Lenguaje de Programación II.
+Actividad de control de cambios con Git.

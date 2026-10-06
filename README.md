@@ -20,3 +20,7 @@ commits, ramas, merge y sincronización con un repositorio remoto.
 Esta sección corresponde a la T_02 del curso
 Lenguaje de Programación II y evidencia el uso de Git
 para el control de versiones del proyecto.
+
+## Control de cambios
+
+Esta sección describe el control de cambios realizado durante la Evaluación 02 mediante Git.
